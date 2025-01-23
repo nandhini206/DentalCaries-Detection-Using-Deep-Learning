@@ -1,0 +1,9 @@
+streamlit==1.29.0
+numpy==1.23.5
+Pillow==9.5.0
+scikit-image==0.19.3
+opencv-python==4.7.0.72
+tensorflow==2.12.0
+
+
+pip install streamlit numpy Pillow scikit-image opencv-python tensorflow
