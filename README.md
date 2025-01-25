@@ -33,8 +33,13 @@ This project is for educational purposes and should not replace professional den
 3. Web application deployment
 
 ## 🖥️ Local Setup
+```
 bashCopygit clone https://github.com/yourusername/TeethCaries-Classification.git
+```
+
 cd TeethCaries-Classification
+```
+
 pip install -r requirements.txt
 jupyter notebook TeethCaries_Classification.ipynb
 
