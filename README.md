@@ -10,12 +10,12 @@ A machine learning solution for early detection of dental caries (tooth decay) u
 ⭐ High-accuracy classification of healthy vs. caries-affected teeth
 
 ## 🛠️ Technologies Used
-Python 3.8+
-TensorFlow/Keras
-NumPy
-Pandas
-Matplotlib/Seaborn
-Jupyter Notebook
+1. Python 3.8+
+2. TensorFlow/Keras
+3. NumPy
+4. Pandas
+5. Matplotlib/Seaborn
+6. Jupyter Notebook
 
 ## 📋 Project Workflow
 
