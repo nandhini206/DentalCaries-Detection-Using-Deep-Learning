@@ -3,11 +3,11 @@
 A machine learning solution for early detection of dental caries (tooth decay) using advanced image classification techniques. This project leverages deep learning to assist healthcare professionals in identifying dental caries efficiently and accurately.
 
 ##  🚀 Key Features
-⭐ Advanced image preprocessing for high-quality input
-⭐ Convolutional Neural Network (CNN) for precise image classification
-⭐ Data visualization of training metrics
-⭐ Real-time prediction for new dental images
-⭐ High-accuracy classification of healthy vs. caries-affected teeth
+1. Advanced image preprocessing for high-quality input
+2. Convolutional Neural Network (CNN) for precise image classification
+3. Data visualization of training metrics
+4. Real-time prediction for new dental images
+5. High-accuracy classification of healthy vs. caries-affected teeth
 
 ## 🛠️ Technologies Used
 1. Python 3.8+
