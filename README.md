@@ -18,19 +18,19 @@ A machine learning solution for early detection of dental caries (tooth decay) u
 6. Jupyter Notebook
 
 ## 📋 Project Workflow
-
-Data Preparation
-Model Training
-Performance Evaluation
-Image Classification
+1. Data Preparation
+2. Model Training
+3. Performance Evaluation
+4. Image Classification
 
 ## 🚨 Disclaimer
-Proof of Concept (POC): This project is for educational purposes and should not replace professional dental diagnosis.
+Proof of Concept (POC): 
+This project is for educational purposes and should not replace professional dental diagnosis.
 
 ## 🎯 Future Enhancements
-⭐ Implement transfer learning with advanced neural networks
-⭐ Expand dataset diversity
-⭐ Web application deployment
+1. Implement transfer learning with advanced neural networks
+2. Expand dataset diversity
+3. Web application deployment
 
 ## 🖥️ Local Setup
 bashCopygit clone https://github.com/yourusername/TeethCaries-Classification.git
